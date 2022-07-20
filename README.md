@@ -22,3 +22,5 @@ To run, you can use nodemon, if don't have nodemon, click <a href="https://www.n
 ```
 nodemon app.js
 ```
+## About
+This is a simple node project to teach how to use nodejs with mongoDB.
