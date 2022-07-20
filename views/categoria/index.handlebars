@@ -1,0 +1,10 @@
+<h1>Categorias:</h1>
+
+{{#each categorias}}
+<div class="alert alert-dark mt-3" role="alert">
+        <a href="/categorias/{{slug}}" class="alert-link"><h4>{{nome}}</h4></a>
+</div>
+{{else}}
+<h5>Nenhuma categoria encontrada</h5>
+
+{{/each}}
