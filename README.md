@@ -1,4 +1,4 @@
-# Nodejs_MongoDB
+# Nodejs and MongoDB project
 <div align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="180em"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="130em"/>
